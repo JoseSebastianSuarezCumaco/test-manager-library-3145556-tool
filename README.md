@@ -48,3 +48,14 @@ No hay prórroga: suban avances parciales con commits pequeños durante la prueb
 | [`test-manager-library-3145556-page`](https://github.com/code-sena/test-manager-library-3145556-page) | Sitio público estático de presentación |
 | [`test-manager-library-3145556-infra`](https://github.com/code-sena/test-manager-library-3145556-infra) | Contenedores, red, volúmenes y motor de base de datos vacío |
 | [`test-manager-library-3145556-tool`](https://github.com/code-sena/test-manager-library-3145556-tool) | Utilidades: sembrador de datos de demostración |
+
+
+## Author
+
+José Sebastián Suárez Cumaco, GitHub: [JoseSebastianSuarezCumaco](https://github.com/JoseSebastianSuarezCumaco).
+
+This repository is my fork of `code-sena/test-manager-library-3145556-tool`, developed for the SDD technical test of ficha ADSO 3145556.
+
+## Implementation status
+
+Task T-21 (demo seeder that works through the API: at least 40 books, 10 members, 15 loans and 3 overdue) is pending at the time of writing, because it depends on the API being complete (T-17).
